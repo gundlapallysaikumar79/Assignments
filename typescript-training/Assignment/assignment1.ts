@@ -8,7 +8,7 @@ console.log ("Whether a customer has placed an order:"+orderPlaced);
 
 //3.Person's phone number: "123-456-7890"
 let phonenumber : number = 123456789;
-console.log(`Person's phone number = ${phonenumber}`);
+console.log("Person's phone number  "  +phonenumber);
 
 //4.Amount of money in a customer's bank account: 1000.50
 let AmountInBank : number = 1000.50;
